@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AirMeter.PrjPcb]
+   Generated File[PCB_AirMeter-RoundHoles.TXT]
+   Generated File[PCB_AirMeter-SlotHoles.TXT]
+   Generated File[PCB_AirMeter.LDP]
+   Generated File[PCB_AirMeter.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:30:46 On 05/03/2021

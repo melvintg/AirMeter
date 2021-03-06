@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EN Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Member From Class: ClassName=BMS Member=R9
+Added Member To Class: ClassName=BMS Member=Component MH1 Hole_M3
