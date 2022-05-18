@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=O3_EN Pin=M6-1
-Removed Pin From Net: NetName=VOC_EN Pin=M7-1
-Added Pin To Net: NetName=VOC_EN Pin=M6-1
-Added Pin To Net: NetName=O3_EN Pin=M7-1
